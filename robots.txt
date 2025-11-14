@@ -1,0 +1,19 @@
+# robots.txt for ciptamasjaya.github.io
+# PT. Cipta Mas Jaya - PJK3 Riksa Uji
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ciptamasjaya.github.io/sitemap.xml
+
+# Disallow administrative and documentation folders
+Disallow: /docs/
+Disallow: /tasks/
+Disallow: /TODO/
+Disallow: /.bundle/
+Disallow: /vendor/
+
+# Allow access to assets
+Allow: /assets/
