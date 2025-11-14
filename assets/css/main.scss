@@ -4,19 +4,16 @@
 
 @charset "utf-8";
 
+// Override theme variables BEFORE importing theme
+$x-large: 1400px !default;
+$max-width: $x-large !default;
+$right-sidebar-width-narrow: 200px !default;
+$right-sidebar-width: 250px !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Custom: Wider content area for all pages */
-
-/* Main content area - increase max-width for wider content blocks */
-#main {
-  @media (min-width: 80em) {
-    max-width: 1400px !important;
-  }
-}
-
-/* Masthead (header/menu) - sticky top and wider */
+/* Custom: Sticky navigation */
 .masthead {
   position: -webkit-sticky;
   position: sticky;
@@ -24,33 +21,6 @@
   z-index: 1000;
   background-color: #fff;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.masthead__inner-wrap {
-  @media (min-width: 80em) {
-    max-width: 1400px !important;
-  }
-}
-
-/* Hero section wrapper */
-.page__hero--overlay .wrapper {
-  @media (min-width: 80em) {
-    max-width: 1400px !important;
-  }
-}
-
-/* Footer - match the header width */
-.page__footer footer {
-  @media (min-width: 80em) {
-    max-width: 1400px !important;
-  }
-}
-
-/* Breadcrumbs */
-.breadcrumbs {
-  @media (min-width: 80em) {
-    max-width: 1400px !important;
-  }
 }
 
 /* Custom CSS for equal height cards */
