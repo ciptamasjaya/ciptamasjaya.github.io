@@ -1,141 +1,137 @@
-# PT. Cipta Mas Jaya - Website Resmi
+# PT. Cipta Mas Jaya - PJK3 Riksa Uji Tersertifikasi
 
-Website resmi PT. Cipta Mas Jaya - PJK3 Riksa Uji Tersertifikasi yang memberikan layanan inspeksi keselamatan profesional untuk pesawat angkat, bejana tekan, instalasi listrik dan K3.
+🌐 **Website:** [https://ciptamasjaya.github.io](https://ciptamasjaya.github.io)
+📧 **Email:** info@ciptamasjaya.co.id
+📱 **Telepon:** 08568258841
+🌐 **Website Utama:** [www.ciptamasjaya.co.id](https://www.ciptamasjaya.co.id)
 
-🌐 **Live Site:** [https://ciptamasjaya.github.io](https://ciptamasjaya.github.io)
+---
 
-## Tentang
+## Tentang Kami
 
-PT. Cipta Mas Jaya adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) tersertifikasi yang memberikan layanan riksa uji dan inspeksi keselamatan untuk berbagai peralatan dan instalasi industri di seluruh Indonesia.
+**PT. Cipta Mas Jaya** adalah Perusahaan Jasa Keselamatan dan Kesehatan Kerja (PJK3) tersertifikasi yang berpengalaman dalam memberikan layanan riksa uji dan inspeksi keselamatan untuk berbagai peralatan dan instalasi industri di seluruh Indonesia.
+
+Dengan tim inspector K3 yang kompeten dan bersertifikat, kami berkomitmen untuk membantu perusahaan memenuhi standar keselamatan kerja dan regulasi Kementerian Ketenagakerjaan RI.
 
 ## Layanan Kami
 
-- **Pesawat Angkat & Angkut** - Riksa uji overhead crane, gantry crane, hoist
-- **Pesawat Uap & Bejana Tekan** - Inspeksi boiler, pressure vessel, air receiver
-- **Instalasi Listrik & Penangkal Petir** - Pengujian instalasi listrik dan grounding system
-- **Instalasi Proteksi Kebakaran** - Inspeksi sistem fire alarm, hydrant, sprinkler
-- **Elevator & Eskalator** - Riksa uji elevator, lift, escalator
-- **Pesawat Tenaga & Produksi** - Inspeksi mesin produksi, kompresor, generator
-- **Pengesahan Gambar Kemnaker** - Layanan pengesahan gambar instalasi K3
+### 1. Pesawat Angkat & Angkut
+Riksa uji dan inspeksi keselamatan untuk:
+- Overhead Crane
+- Gantry Crane
+- Mobile Crane
+- Tower Crane
+- Electric Hoist
+- Chain Block
+- Wire Rope Sling
+- Dan pesawat angkat lainnya
 
-## Teknologi
+### 2. Pesawat Uap & Bejana Tekan
+Inspeksi kelayakan dan keselamatan:
+- Boiler (Ketel Uap)
+- Pressure Vessel (Bejana Tekan)
+- Air Receiver (Tangki Udara Bertekanan)
+- Autoclave
+- Heat Exchanger
+- Kompressor
 
-Website ini dibangun menggunakan:
+### 3. Instalasi Listrik & Penangkal Petir
+Pengujian dan inspeksi:
+- Instalasi Listrik Tegangan Rendah & Menengah
+- Grounding System (Sistem Pentanahan)
+- Lightning Protection System (Penangkal Petir)
+- Panel Listrik
+- Transformator
 
-- **Jekyll** - Static site generator
-- **GitHub Pages** - Hosting
-- **Minimal Mistakes** - Jekyll theme
-- **Markdown** - Content format
+### 4. Instalasi Proteksi Kebakaran
+Inspeksi sistem fire protection:
+- Fire Alarm System
+- Hydrant System
+- Sprinkler System
+- APAR (Alat Pemadam Api Ringan)
+- Fire Pump
+- FM-200 / Gas Suppression System
 
-## Struktur Project
+### 5. Elevator & Eskalator
+Riksa uji keselamatan:
+- Elevator Penumpang & Barang
+- Escalator
+- Moving Walkway
+- Lift Barang
+- Service Lift
 
-```
-.
-├── _config.yml          # Konfigurasi Jekyll
-├── _data/
-│   └── navigation.yml   # Menu navigasi
-├── _includes/           # Template includes
-├── _layouts/            # Template layouts
-├── _pages/              # Halaman statis
-├── _posts/              # Artikel blog
-├── assets/
-│   ├── css/            # Custom CSS
-│   ├── images/         # Gambar
-│   └── js/             # JavaScript
-└── docs/               # Dokumentasi
+### 6. Pesawat Tenaga & Produksi
+Inspeksi peralatan produksi:
+- Mesin Produksi Industri
+- Generator Set
+- Kompresor Udara
+- Pompa Industri
+- Conveyor System
+- Mesin CNC & Industri
 
-```
+### 7. Pengesahan Gambar Kemnaker
+Layanan pengesahan gambar instalasi dan peralatan K3 oleh Kementerian Ketenagakerjaan untuk:
+- Gambar instalasi listrik
+- Gambar pesawat angkat
+- Gambar instalasi K3 lainnya
+- Konsultasi teknis kepatuhan regulasi
 
-## Development
+## Keunggulan Kami
 
-### Prerequisites
+✓ **Inspector Bersertifikat** - Tim inspector K3 yang kompeten dengan pengalaman puluhan tahun
+✓ **Peralatan Terstandar** - Menggunakan alat uji terkalibrasi sesuai standar nasional/internasional
+✓ **Proses Cepat & Profesional** - Meminimalkan downtime operasional dengan inspeksi efisien
+✓ **Laporan Lengkap** - Dokumentasi detail dengan rekomendasi perbaikan yang jelas
+✓ **Sertifikat Resmi** - Sertifikat laik operasi yang diakui Kemnaker dan dinas terkait
+✓ **Harga Kompetitif** - Biaya terjangkau dengan kualitas layanan profesional
 
-- Ruby (2.7 atau lebih baru)
-- Bundler
-- Jekyll
+## Area Layanan
 
-### Instalasi
+Kami melayani inspeksi K3 di seluruh Indonesia dengan area layanan utama:
 
-```bash
-# Install dependencies
-bundle install
+- **Jabodetabek** - Jakarta, Bogor, Depok, Tangerang, Bekasi
+- **Jawa Barat** - Bandung, Karawang, Cikarang, Purwakarta, Cirebon
+- **Jawa Tengah** - Semarang, Solo, Cilacap, Kendal, Tegal
+- **Jawa Timur** - Surabaya, Sidoarjo, Gresik, Malang
+- **Kalimantan** - Balikpapan, Samarinda, Bontang
 
-# Jalankan local server
-bundle exec jekyll serve
+**On-site inspection available** - Tim kami siap datang ke lokasi Anda!
 
-# Build site
-bundle exec jekyll build
-```
+## Mengapa Riksa Uji K3 Penting?
 
-### Local Development
+1. **Kepatuhan Regulasi** - Memenuhi persyaratan Kemnaker RI sesuai UU No. 1/1970 tentang Keselamatan Kerja
+2. **Mencegah Kecelakaan Kerja** - Identifikasi potensi bahaya sebelum terjadi insiden
+3. **Produktivitas Optimal** - Peralatan yang terawat bekerja lebih efisien
+4. **Legalitas Operasional** - Sertifikat laik operasi untuk kelancaran bisnis
+5. **Asuransi & Audit** - Persyaratan untuk klaim asuransi dan audit eksternal
 
-Setelah menjalankan `bundle exec jekyll serve`, buka browser di:
+## Prosedur Layanan
 
-```
-http://localhost:4000
-```
+1. **Konsultasi Awal** - Hubungi kami untuk diskusi kebutuhan inspeksi
+2. **Penawaran** - Kami kirimkan proposal dan quotation
+3. **Penjadwalan** - Tentukan waktu inspeksi yang sesuai
+4. **Inspeksi Lapangan** - Tim inspector melakukan riksa uji
+5. **Laporan** - Penyerahan laporan hasil inspeksi
+6. **Sertifikat** - Penerbitan sertifikat laik operasi (jika lulus)
 
-## Menambah Konten
+## Regulasi & Standar
 
-### Membuat Halaman Baru
+Layanan kami mengacu pada:
+- UU No. 1 Tahun 1970 tentang Keselamatan Kerja
+- Permenaker No. 5 Tahun 2018 tentang K3 Lingkungan Kerja
+- Permenaker tentang Pesawat Angkat & Angkut
+- Permenaker tentang Pesawat Tenaga & Produksi
+- SNI (Standar Nasional Indonesia)
+- PUIL (Persyaratan Umum Instalasi Listrik)
+- NFPA (National Fire Protection Association)
 
-Buat file baru di folder `_pages/`:
+## Sertifikasi & Lisensi
 
-```markdown
----
-layout: single
-title: "Judul Halaman"
-permalink: /url-halaman/
----
-
-Konten halaman di sini...
-```
-
-### Membuat Artikel Baru
-
-Buat file baru di folder `_posts/` dengan format nama: `YYYY-MM-DD-judul-artikel.md`
-
-```markdown
----
-layout: single
-title: "Judul Artikel"
-date: 2024-10-30
-categories: [kategori]
-tags: [tag1, tag2]
----
-
-Konten artikel di sini...
-```
-
-## Konfigurasi
-
-File `_config.yml` berisi konfigurasi utama:
-
-- Site information (title, description, url)
-- Theme settings (Minimal Mistakes)
-- Plugins
-- Author information
-- Navigation settings
-- SEO settings
-
-## Deployment
-
-Website ini otomatis di-deploy ke GitHub Pages setiap kali ada push ke branch `main`.
-
-### Manual Deploy
-
-```bash
-# Add changes
-git add .
-
-# Commit
-git commit -m "Update content"
-
-# Push to GitHub
-git push origin main
-```
-
-GitHub Pages akan otomatis rebuild dan deploy dalam beberapa menit.
+PT. Cipta Mas Jaya memiliki:
+- Izin PJK3 dari Kementerian Ketenagakerjaan RI
+- Sertifikat Kompetensi Inspector K3
+- Sertifikat Kalibrasi Peralatan Uji
+- ISO Management System (dalam proses)
 
 ## Kontak
 
